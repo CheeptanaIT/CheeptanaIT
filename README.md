@@ -1,6 +1,6 @@
 <div align="center">
 
-# สวัสดีครับ, ผม Cheeptan 👋
+# สวัสดีครับ, ผม Cheeptana 👋
 
 **IT Infrastructure & Operations Specialist**
 ดูแลระบบ IT ขององค์กร และพัฒนาระบบภายในที่ใช้งานจริง
